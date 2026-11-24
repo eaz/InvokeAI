@@ -62,7 +62,7 @@
     "fracturedjsonjs": "^4.1.1",
     "framer-motion": "^11.18.2",
     "html-to-image": "^1.11.13",
-    "i18next": "^25.7.3",
+    "i18next": "^26.3.4",
     "i18next-http-backend": "^3.0.2",
     "idb-keyval": "6.2.1",
     "jsondiffpatch": "^0.7.3",
